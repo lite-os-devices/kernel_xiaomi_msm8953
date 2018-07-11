@@ -1,0 +1,4 @@
+Original repository:
+---------------------
+	
+[KudProject](https://github.com/KudProject/kernel_xiaomi_msm8953).
